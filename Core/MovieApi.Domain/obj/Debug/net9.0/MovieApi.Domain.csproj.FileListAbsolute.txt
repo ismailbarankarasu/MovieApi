@@ -1,0 +1,11 @@
+C:\cSharpDersleri\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.deps.json
+C:\cSharpDersleri\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.dll
+C:\cSharpDersleri\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.pdb
+C:\cSharpDersleri\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpDersleri\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfoInputs.cache
+C:\cSharpDersleri\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfo.cs
+C:\cSharpDersleri\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.csproj.CoreCompileInputs.cache
+C:\cSharpDersleri\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.dll
+C:\cSharpDersleri\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\refint\MovieApi.Domain.dll
+C:\cSharpDersleri\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.pdb
+C:\cSharpDersleri\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\ref\MovieApi.Domain.dll
