@@ -172,3 +172,5 @@ C:\cSharpDersleri\MovieApi\Presentation\MovieApi.WebApi\obj\Debug\net9.0\MovieAp
 C:\cSharpDersleri\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\cSharpDersleri\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\cSharpDersleri\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\cSharpDersleri\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\MediatR.dll
+C:\cSharpDersleri\MovieApi\Presentation\MovieApi.WebApi\bin\Debug\net9.0\MediatR.Contracts.dll
