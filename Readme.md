@@ -1,69 +1,123 @@
-# Movie API Projesi
+# 🎬 Movie API Projesi
 
 Bu proje, Murat Yücedağ hocamın YouTube kanalında .NET 9.0 ile geliştirdiği ücretsiz bir eğitim projesidir. Proje, film verilerini yönetmek için geliştirilmiş bir Web Projesidir.
 22.Derse kadar tamamlanan halidir.
 
-## Proje Yapısı
+## 🏗️ Mimari Yapı
 
-Proje, Onion Architecture prensiplerine uygun olarak geliştirilmiştir ve aşağıdaki katmanlardan oluşmaktadır:
+Proje, Onion Architecture prensiplerine uygun olarak geliştirilmiştir:
 
-- **Core**
-  - MovieApi.Domain
-    - Entities/
-      - Movie.cs
-      - Category.cs
-      - Cast.cs
-      - Review.cs
-      - Tag.cs
-  - MovieApi.Application
-    - Features/
-      - CQRSDesignPattern/
-      - MediatorDesignPattern/
-- **Infrastructure**
-  - MovieApi.Persistence
-    - Context/
-    - Migrations/
-- **Presentation**
-  - MovieApi.WebApi
-    - Controllers/
-      - MoviesController.cs
-      - CategoriesController.cs
-      - CastsController.cs
-      - TagsController.cs
-    - Program.cs
-    - appsettings.json
+```
+MovieApi/
+├── Core/
+│   ├── MovieApi.Domain/          # Entity'ler ve domain modelleri
+│   └── MovieApi.Application/     # İş mantığı ve CQRS/MediatR pattern'leri
+├── Infrastructure/
+│   └── MovieApi.Persistence/     # Veritabanı işlemleri ve context
+└── Presentation/
+    └── MovieApi.WebApi/         # API katmanı
+```
 
-## API Endpoint'leri
+## 🖼️ Arayüz Görüntüleri
 
-### Movies Controller
-- GET /api/Movies - Tüm filmleri listeler
-- GET /api/Movies/{id} - Belirli bir filmi getirir
-- POST /api/Movies - Yeni film ekler
-- PUT /api/Movies/{id} - Film günceller
-- DELETE /api/Movies/{id} - Film siler
+### Swagger API Dokümantasyonu
+<div align="center">
+  <img src="photos/apiBir.jpg" alt="API Dokümantasyonu 1" width="800">
+</div>
 
-### Categories Controller
-- GET /api/Categories - Tüm kategorileri listeler
-- GET /api/Categories/{id} - Belirli bir kategoriyi getirir
-- POST /api/Categories - Yeni kategori ekler
-- PUT /api/Categories/{id} - Kategori günceller
-- DELETE /api/Categories/{id} - Kategori siler
+### CQRS ve MediatR Karşılaştırması
+<div align="center">
+  <img src="photos/CQRSController.jpg" alt="CQRS Controller" width="800">
+  <img src="photos/MediatRController.jpg" alt="MediatR Controller" width="800">
+</div>
 
-### Casts Controller
-- GET /api/Casts - Tüm oyuncuları listeler
-- GET /api/Casts/{id} - Belirli bir oyuncuyu getirir
-- POST /api/Casts - Yeni oyuncu ekler
-- PUT /api/Casts/{id} - Oyuncu günceller
-- DELETE /api/Casts/{id} - Oyuncu siler
+## 🛠️ Kurulum
 
-### Tags Controller
-- GET /api/Tags - Tüm etiketleri listeler
-- GET /api/Tags/{id} - Belirli bir etiketi getirir
-- POST /api/Tags - Yeni etiket ekler
-- PUT /api/Tags/{id} - Etiket günceller
-- DELETE /api/Tags/{id} - Etiket siler
+1. Repoyu klonlayın:
+```bash
+git clone https://github.com/ismailbarankarasu/MovieApi.git
+```
 
-## Kullanılan Teknolojiler
+2. Veritabanını oluşturun:
+```bash
+Update-Database
+```
+
+3. API projesini başlatın:
+```bash
+cd Presentation/MovieApi.WebApi
+dotnet run
+```
+
+## 🔐 API Endpoints
+
+### Filmler
+- `GET /api/Movies` - Tüm filmleri listele
+- `GET /api/Movies/{id}` - Belirli bir filmi getir
+- `POST /api/Movies` - Yeni film ekle
+- `PUT /api/Movies/{id}` - Film güncelle
+- `DELETE /api/Movies/{id}` - Film sil
+
+### Kategoriler
+- `GET /api/Categories` - Tüm kategorileri listele
+- `GET /api/Categories/{id}` - Belirli bir kategoriyi getir
+- `POST /api/Categories` - Yeni kategori ekle
+- `PUT /api/Categories/{id}` - Kategori güncelle
+- `DELETE /api/Categories/{id}` - Kategori sil
+
+### Oyuncular
+- `GET /api/Casts` - Tüm oyuncuları listele
+- `GET /api/Casts/{id}` - Belirli bir oyuncuyu getir
+- `POST /api/Casts` - Yeni oyuncu ekle
+- `PUT /api/Casts/{id}` - Oyuncu güncelle
+- `DELETE /api/Casts/{id}` - Oyuncu sil
+
+### Etiketler
+- `GET /api/Tags` - Tüm etiketleri listele
+- `GET /api/Tags/{id}` - Belirli bir etiketi getir
+- `POST /api/Tags` - Yeni etiket ekle
+- `PUT /api/Tags/{id}` - Etiket güncelle
+- `DELETE /api/Tags/{id}` - Etiket sil
+
+## 📊 Veritabanı Şeması
+
+```mermaid
+erDiagram
+    MOVIE ||--o{ CATEGORY : belongs_to
+    MOVIE ||--o{ CAST : has
+    MOVIE ||--o{ REVIEW : has
+    MOVIE ||--o{ TAG : has
+    MOVIE {
+        int Id
+        string Title
+        string Description
+        string ImageUrl
+        DateTime ReleaseDate
+        decimal Rating
+    }
+    CATEGORY {
+        int Id
+        string Name
+    }
+    CAST {
+        int Id
+        string Name
+        string Character
+        string ImageUrl
+    }
+    REVIEW {
+        int Id
+        string Content
+        int Rating
+        DateTime CreatedDate
+    }
+    TAG {
+        int Id
+        string Name
+    }
+```
+
+## 🛠️ Kullanılan Teknolojiler
 
 - .NET 9.0
 - CQRS (Command Query Responsibility Segregation)
@@ -71,32 +125,7 @@ Proje, Onion Architecture prensiplerine uygun olarak geliştirilmiştir ve aşa�
 - Entity Framework Core
 - Swagger/OpenAPI
 
-## API Dokümantasyonu
-
-Swagger üzerinden API'yi test edebilir ve dokümantasyonunu inceleyebilirsiniz:
-
-![API Dokümantasyonu 1](photos/apiBir.jpg)
-![API Dokümantasyonu 2](photos/apiIki.jpg)
-
-## CQRS ve MediatR Karşılaştırması
-
-Projede hem CQRS hem de MediatR pattern'leri kullanılmıştır. Aşağıdaki görsellerde her iki yaklaşımın controller yapılarını görebilirsiniz:
-
-![CQRS Controller](photos/CQRSController.jpg)
-![MediatR Controller](photos/MediatRController.jpg)
-
-CQRS yaklaşımında controller'lar daha karmaşık bir yapıya sahiptir çünkü:
-- Command ve Query'ler ayrı ayrı yönetilir
-- Her işlem için ayrı handler'lar oluşturulur
-- Daha fazla kod tekrarı olabilir
-
-MediatR kullanımında ise:
-- Kod daha temiz ve anlaşılır
-- Handler'lar merkezi olarak yönetilir
-- Daha az kod tekrarı
-- Daha kolay test edilebilirlik
-
-## Dersde sorulan sorular
+## 📚 Dersde Sorulan Sorular
 
 ### 1. Task ile void arasındaki fark nedir?
 - `void`: Asenkron olmayan, sonucu olmayan işlemler için kullanılır
@@ -114,3 +143,17 @@ MediatR kullanımında ise:
 - Belirtilen assembly'deki tüm handler'ları bulur ve kaydeder
 - Manuel servis kaydı yapmaktan kurtarır
 - Kod tekrarını önler
+
+## 🤝 Katkıda Bulunma
+
+1. Fork'layın
+2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
+3. Commit'leyin (`git commit -m 'feat: Add amazing feature'`)
+4. Push'layın (`git push origin feature/amazing-feature`)
+5. Pull Request açın
+
+## 👥 İletişim
+
+- GitHub: [Kullanıcı Adı](https://github.com/[kullanıcı-adı])
+- LinkedIn: [Ad Soyad](https://linkedin.com/in/[linkedin-kullanıcı-adı])
+- E-posta: [e-posta@adresi.com](mailto:e-posta@adresi.com)
