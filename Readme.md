@@ -23,6 +23,7 @@ MovieApi/
 ### Swagger API Dokümantasyonu
 <div align="center">
   <img src="photos/apiBir.jpg" alt="API Dokümantasyonu 1" width="800">
+  <img src="photos/apiIki.jpg" alt="API Dokümantasyonu 2" width="800">
 </div>
 
 ### CQRS ve MediatR Karşılaştırması
