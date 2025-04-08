@@ -154,6 +154,6 @@ erDiagram
 
 ## 👥 İletişim
 
-- GitHub: [ismailbarankarasu](https://github.com/[ismailbarankarasu])
+- GitHub: [ismailbarankarasu](https://github.com/ismailbarankarasu)
 - LinkedIn: [İsmail Baran KARASU](https://www.linkedin.com/in/ismail-baran-karasu/)
 - E-posta: [ismailbaran04@gmail.com](mailto:ismailbaran04@gmail.com)
