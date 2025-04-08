@@ -154,6 +154,6 @@ erDiagram
 
 ## 👥 İletişim
 
-- GitHub: [Kullanıcı Adı](https://github.com/[kullanıcı-adı])
-- LinkedIn: [Ad Soyad](https://linkedin.com/in/[linkedin-kullanıcı-adı])
-- E-posta: [e-posta@adresi.com](mailto:e-posta@adresi.com)
+- GitHub: [ismailbarankarasu](https://github.com/[ismailbarankarasu])
+- LinkedIn: [İsmail Baran KARASU](https://www.linkedin.com/in/ismail-baran-karasu/)
+- E-posta: [ismailbaran04@gmail.com](mailto:ismailbaran04@gmail.com)
