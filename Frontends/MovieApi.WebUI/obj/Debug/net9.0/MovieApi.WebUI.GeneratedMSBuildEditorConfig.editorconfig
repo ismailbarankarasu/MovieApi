@@ -36,12 +36,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/cSharpDersleri/MovieApi/Frontends/MovieApi.WebUI/Views/Movie/MovieList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTW92aWVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cSharpDersleri/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutFooterComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VzZXJMYXlvdXRGb290ZXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/cSharpDersleri/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutHeadComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VzZXJMYXlvdXRIZWFkQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/cSharpDersleri/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutHeroComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VzZXJMYXlvdXRIZXJvQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/cSharpDersleri/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutLoginModalComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VzZXJMYXlvdXRMb2dpbk1vZGFsQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/cSharpDersleri/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutNavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VzZXJMYXlvdXROYXZiYXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/cSharpDersleri/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutPreloaderComponentPartial/Default.cshtml]
