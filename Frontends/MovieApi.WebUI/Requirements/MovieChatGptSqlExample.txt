@@ -1,0 +1,41 @@
+﻿INSERT INTO Movie (Title, CoverImageUrl, Rating, Description, Duration, ReleaseDate, CreatedYear, Status)
+VALUES 
+('Pulp Fiction', 'https://m.media-amazon.com/images/I/71c05lTE03L._AC_SY679_.jpg', 8.9, 
+'Birbirine bağlı suç hikâyelerini anlatan filmde, gangsterler, boksörler ve suçluların yolları kesişiyor. Quentin Tarantino''nun kült eseri unutulmaz diyaloglarıyla dikkat çekiyor.', 
+154, '1994-10-14', '1994', 1),
+
+('Fight Club', 'https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg', 8.8, 
+'Toplumdan yabancılaşmış bir adam ve gizemli bir sabun satıcısı tarafından kurulan yeraltı dövüş kulübü kısa sürede büyük bir harekete dönüşür. Film, bireyin kimlik arayışını ele alıyor.', 
+139, '1999-10-15', '1999', 1),
+
+('Gladiator', 'https://m.media-amazon.com/images/I/51A9T9ZgDLL._AC_.jpg', 8.5, 
+'Roma İmparatorluğu döneminde ihanet sonucu ailesini kaybeden general Maximus''un arenada gladyatör olarak intikamını alma hikâyesi epik sahnelerle anlatılıyor.', 
+155, '2000-05-05', '2000', 1),
+
+('The Shawshank Redemption', 'https://m.media-amazon.com/images/I/519NBNHX5BL._AC_.jpg', 9.3, 
+'Haksız yere ömür boyu hapse mahkûm edilen Andy Dufresne, Shawshank Hapishanesi''nde umudu ve dostluğu bulur. Film, özgürlük ve sabır temalarını etkileyici biçimde işler.', 
+142, '1994-09-23', '1994', 1),
+
+('The Lord of the Rings: The Fellowship of the Ring', 'https://m.media-amazon.com/images/I/51Qvs9i5a%2BL._AC_.jpg', 8.8, 
+'Karanlık güçlerin yok etmek istediği bir yüzüğü yok etmek için yola çıkan bir grup kahramanın Orta Dünya''daki destansı yolculuğunu anlatıyor.', 
+178, '2001-12-19', '2001', 1),
+
+('Joker', 'https://m.media-amazon.com/images/I/81pxS0zL-DL._AC_SY679_.jpg', 8.4, 
+'Toplumdan dışlanmış bir adamın psikolojik çöküşü sonucu Gotham''ın en korkulan kötü karakterlerinden biri olan Joker''e dönüşümünü karanlık bir atmosferde anlatıyor.', 
+122, '2019-10-04', '2019', 1),
+
+('Schindler''s List', 'https://m.media-amazon.com/images/I/51T8OXMiFIL._AC_.jpg', 9.0, 
+'II. Dünya Savaşı sırasında, binlerce Yahudi''nin hayatını kurtaran Alman sanayici Oskar Schindler''in gerçek hikâyesini derin bir dramatik anlatımla sunuyor.', 
+195, '1993-12-15', '1993', 1),
+
+('The Lion King', 'https://m.media-amazon.com/images/I/51C4A5U5F7L._AC_.jpg', 8.5, 
+'Genç bir aslanın babasının ölümünün ardından kendi kaderini kabul edip krallığını geri alma mücadelesini anlatan unutulmaz bir Disney klasiği.', 
+88, '1994-06-24', '1994', 1),
+
+('Inglourious Basterds', 'https://m.media-amazon.com/images/I/81oWesFAeWL._AC_SY679_.jpg', 8.3, 
+'II. Dünya Savaşı''nda bir grup Yahudi Amerikan askeri, Nazi Almanyası''na karşı ölümcül bir intikam planı yürütür. Tarantino''nun kendine has anlatımıyla dikkat çeken bir film.', 
+153, '2009-08-21', '2009', 1),
+
+('La La Land', 'https://m.media-amazon.com/images/I/81G%2BE6h3IAL._AC_SY679_.jpg', 8.0, 
+'Los Angeles''ta kariyer peşinde koşan bir caz piyanisti ve oyuncu adayının yolları kesişir. Aşk, tutku ve hayaller üzerine modern bir müzikal başyapıt.', 
+128, '2016-12-09', '2016', 1);

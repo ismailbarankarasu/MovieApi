@@ -1,0 +1,41 @@
+﻿INSERT INTO Movies (Title, CoverImageUrl, Rating, Description, Duration, ReleaseDate, CreatedYear, Status)
+VALUES 
+('Breaking Bad', 'https://m.media-amazon.com/images/I/81kPS5l9TjL._AC_SY679_.jpg', 9.5,
+'Kanser teşhisi konulan kimya öğretmeni Walter White, ailesinin geleceğini garanti altına almak için uyuşturucu üretmeye başlar. Suç ve dram dolu hikâyesiyle izleyicileri büyüledi.',
+47, '2008-01-20', '2008', 1),
+
+('Game of Thrones', 'https://m.media-amazon.com/images/I/81GqtNbs%2BPL._AC_SY679_.jpg', 9.2,
+'Westeros kıtasında farklı hanedanlar taht için savaşırken, eski ve karanlık güçler yeniden ortaya çıkar. Epik savaş sahneleri ve entrikalarıyla efsaneleşen bir fantastik dizi.', 
+57, '2011-04-17', '2011', 1),
+
+('Stranger Things', 'https://m.media-amazon.com/images/I/81DJZtRzbLL._AC_SY679_.jpg', 8.7,
+'80''ler atmosferinde geçen dizide, küçük bir kasabada bir çocuğun kaybolmasıyla doğaüstü olaylar zinciri başlar. Bilim kurgu ve korku türlerini başarılı şekilde harmanlıyor.', 
+51, '2016-07-15', '2016', 1),
+
+('Peaky Blinders', 'https://m.media-amazon.com/images/I/71SKsU5KyBL._AC_SY679_.jpg', 8.8,
+'1919 İngiltere''sinde, Peaky Blinders çetesinin lideri Tommy Shelby''nin suç dünyasında yükselişini ve ailesiyle verdiği mücadeleyi anlatan sürükleyici bir dönem dizisi.', 
+58, '2013-09-12', '2013', 1),
+
+('The Witcher', 'https://m.media-amazon.com/images/I/71Obm1h7xWL._AC_SY679_.jpg', 8.1,
+'Geralt of Rivia adındaki bir canavar avcısının, büyü ve kader dolu bir dünyada hayatta kalma mücadelesini konu alıyor. Kitap uyarlaması dizi, fantastik evreniyle dikkat çekiyor.', 
+60, '2019-12-20', '2019', 1),
+
+('Dark', 'https://m.media-amazon.com/images/I/71m25U2e8KL._AC_SY679_.jpg', 8.8,
+'Almanya''nın küçük bir kasabasında çocukların kaybolmasıyla başlayan olaylar, zaman yolculuğu ve aile sırlarıyla dolu karmaşık bir hikâyeye dönüşüyor. Derin anlatımıyla öne çıkıyor.', 
+53, '2017-12-01', '2017', 1),
+
+('The Crown', 'https://m.media-amazon.com/images/I/81YtX2h8pXL._AC_SY679_.jpg', 8.6,
+'II. Elizabeth''in tahta çıkışından itibaren İngiliz Kraliyet Ailesi''nin yaşamını ve politikalarını detaylı bir şekilde anlatan tarihi bir drama dizisi.', 
+58, '2016-11-04', '2016', 1),
+
+('The Mandalorian', 'https://m.media-amazon.com/images/I/81A-HW1BztL._AC_SY679_.jpg', 8.7,
+'Star Wars evreninde geçen dizide, yalnız bir ödül avcısının galaksinin uzak köşelerinde Baby Yoda ile yaşadığı maceralar konu ediliyor. Görselliği ve atmosferiyle beğeni topluyor.', 
+40, '2019-11-12', '2019', 1),
+
+('Chernobyl', 'https://m.media-amazon.com/images/I/81xeMSvXMXL._AC_SY679_.jpg', 9.4,
+'1986''da meydana gelen Çernobil nükleer felaketini ve sonrasında yaşananları etkileyici bir gerçekçilikle anlatan, gerilim dolu kısa bir mini dizi.', 
+60, '2019-05-06', '2019', 1),
+
+('The Last of Us', 'https://m.media-amazon.com/images/I/91EKtkt2pQL._AC_SY679_.jpg', 8.9,
+'Küresel bir salgın sonrası hayatta kalmaya çalışan Joel ve Ellie''nin tehlikeli yolculuğunu konu alan, aynı adlı video oyunundan uyarlanan güçlü bir dram dizisi.', 
+55, '2023-01-15', '2023', 1);
