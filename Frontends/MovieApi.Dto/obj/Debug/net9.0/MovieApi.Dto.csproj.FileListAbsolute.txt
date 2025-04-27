@@ -1,0 +1,12 @@
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.Dto\bin\Debug\net9.0\MovieApi.Dto.deps.json
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.Dto\bin\Debug\net9.0\MovieApi.Dto.dll
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.Dto\bin\Debug\net9.0\MovieApi.Dto.pdb
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.AssemblyInfoInputs.cache
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.AssemblyInfo.cs
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.csproj.CoreCompileInputs.cache
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.sourcelink.json
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.dll
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\refint\MovieApi.Dto.dll
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.pdb
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.Dto\obj\Debug\net9.0\ref\MovieApi.Dto.dll
