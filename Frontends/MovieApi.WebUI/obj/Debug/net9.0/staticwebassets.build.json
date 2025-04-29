@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sF0BT77VMyrkqcyOOtjj7k6/t1LkuJUSeeE4KiUQlaU=",
+  "Hash": "4P03o/MFNtUgIHopmyL/KEXxyAcUpDBjgmzJXdA73Do=",
   "Source": "MovieApi.WebUI",
   "BasePath": "_content/MovieApi.WebUI",
   "Mode": "Default",
@@ -920,12 +920,12 @@
       "OriginalItemSpec": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\obj\\Debug\\net9.0\\compressed\\eiafsoy26r-f2re2gmcw4.gz",
+      "Identity": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\obj\\Debug\\net9.0\\compressed\\eiafsoy26r-8oygjvc2be.gz",
       "SourceId": "MovieApi.WebUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MovieApi.WebUI",
-      "RelativePath": "Film-Review-Movie-Database/Film-Review-Movie-Database/moviesingle#[.{fingerprint=f2re2gmcw4}]?.html.gz",
+      "RelativePath": "Film-Review-Movie-Database/Film-Review-Movie-Database/moviesingle#[.{fingerprint=8oygjvc2be}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -934,8 +934,8 @@
       "RelatedAsset": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\wwwroot\\Film-Review-Movie-Database\\Film-Review-Movie-Database\\moviesingle.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pr597zkm4v",
-      "Integrity": "i+fKITSG/TaQzUt4u/Qkr/D6I4b1XBUuyGfPCK8NF5M=",
+      "Fingerprint": "q8eejyrpox",
+      "Integrity": "muoxkT0lwOR18qcRtgJJAf/aUbOuGnphioiXiTkASY8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\wwwroot\\Film-Review-Movie-Database\\Film-Review-Movie-Database\\moviesingle.html"
@@ -7864,8 +7864,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "f2re2gmcw4",
-      "Integrity": "h2JuIRCaZXYwiSF1cwAG9bIlBfAvV4H/VP+3oRxYAmk=",
+      "Fingerprint": "8oygjvc2be",
+      "Integrity": "iCLhmmdDYQUqLiw6tEi0+ClwVbr0Iwm6c8M7HraTjlw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Film-Review-Movie-Database\\Film-Review-Movie-Database\\moviesingle.html"
@@ -39903,13 +39903,13 @@
       ]
     },
     {
-      "Route": "Film-Review-Movie-Database/Film-Review-Movie-Database/moviesingle.f2re2gmcw4.html",
-      "AssetFile": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\obj\\Debug\\net9.0\\compressed\\eiafsoy26r-f2re2gmcw4.gz",
+      "Route": "Film-Review-Movie-Database/Film-Review-Movie-Database/moviesingle.8oygjvc2be.html",
+      "AssetFile": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\obj\\Debug\\net9.0\\compressed\\eiafsoy26r-8oygjvc2be.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000102145046"
+          "Quality": "0.000102753802"
         }
       ],
       "ResponseHeaders": [
@@ -39919,15 +39919,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9789"
+          "Value": "9731"
         },
         {
           "Name": "ETag",
-          "Value": "\"i+fKITSG/TaQzUt4u/Qkr/D6I4b1XBUuyGfPCK8NF5M=\""
+          "Value": "\"muoxkT0lwOR18qcRtgJJAf/aUbOuGnphioiXiTkASY8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Jun 2019 08:44:53 GMT"
+          "Value": "Tue, 29 Apr 2025 14:34:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39947,13 +39947,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"h2JuIRCaZXYwiSF1cwAG9bIlBfAvV4H/VP+3oRxYAmk=\""
+          "Value": "W/\"iCLhmmdDYQUqLiw6tEi0+ClwVbr0Iwm6c8M7HraTjlw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f2re2gmcw4"
+          "Value": "8oygjvc2be"
         },
         {
           "Name": "label",
@@ -39961,12 +39961,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-h2JuIRCaZXYwiSF1cwAG9bIlBfAvV4H/VP+3oRxYAmk="
+          "Value": "sha256-iCLhmmdDYQUqLiw6tEi0+ClwVbr0Iwm6c8M7HraTjlw="
         }
       ]
     },
     {
-      "Route": "Film-Review-Movie-Database/Film-Review-Movie-Database/moviesingle.f2re2gmcw4.html",
+      "Route": "Film-Review-Movie-Database/Film-Review-Movie-Database/moviesingle.8oygjvc2be.html",
       "AssetFile": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\wwwroot\\Film-Review-Movie-Database\\Film-Review-Movie-Database\\moviesingle.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -39976,7 +39976,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "53161"
+          "Value": "52988"
         },
         {
           "Name": "Content-Type",
@@ -39984,11 +39984,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"h2JuIRCaZXYwiSF1cwAG9bIlBfAvV4H/VP+3oRxYAmk=\""
+          "Value": "\"iCLhmmdDYQUqLiw6tEi0+ClwVbr0Iwm6c8M7HraTjlw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Jun 2019 08:44:53 GMT"
+          "Value": "Tue, 29 Apr 2025 14:34:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -39998,7 +39998,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f2re2gmcw4"
+          "Value": "8oygjvc2be"
         },
         {
           "Name": "label",
@@ -40006,13 +40006,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-h2JuIRCaZXYwiSF1cwAG9bIlBfAvV4H/VP+3oRxYAmk="
+          "Value": "sha256-iCLhmmdDYQUqLiw6tEi0+ClwVbr0Iwm6c8M7HraTjlw="
         }
       ]
     },
     {
-      "Route": "Film-Review-Movie-Database/Film-Review-Movie-Database/moviesingle.f2re2gmcw4.html.gz",
-      "AssetFile": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\obj\\Debug\\net9.0\\compressed\\eiafsoy26r-f2re2gmcw4.gz",
+      "Route": "Film-Review-Movie-Database/Film-Review-Movie-Database/moviesingle.8oygjvc2be.html.gz",
+      "AssetFile": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\obj\\Debug\\net9.0\\compressed\\eiafsoy26r-8oygjvc2be.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40021,7 +40021,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9789"
+          "Value": "9731"
         },
         {
           "Name": "Content-Type",
@@ -40029,11 +40029,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"i+fKITSG/TaQzUt4u/Qkr/D6I4b1XBUuyGfPCK8NF5M=\""
+          "Value": "\"muoxkT0lwOR18qcRtgJJAf/aUbOuGnphioiXiTkASY8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Jun 2019 08:44:53 GMT"
+          "Value": "Tue, 29 Apr 2025 14:34:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40051,7 +40051,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f2re2gmcw4"
+          "Value": "8oygjvc2be"
         },
         {
           "Name": "label",
@@ -40059,18 +40059,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-i+fKITSG/TaQzUt4u/Qkr/D6I4b1XBUuyGfPCK8NF5M="
+          "Value": "sha256-muoxkT0lwOR18qcRtgJJAf/aUbOuGnphioiXiTkASY8="
         }
       ]
     },
     {
       "Route": "Film-Review-Movie-Database/Film-Review-Movie-Database/moviesingle.html",
-      "AssetFile": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\obj\\Debug\\net9.0\\compressed\\eiafsoy26r-f2re2gmcw4.gz",
+      "AssetFile": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\obj\\Debug\\net9.0\\compressed\\eiafsoy26r-8oygjvc2be.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000102145046"
+          "Quality": "0.000102753802"
         }
       ],
       "ResponseHeaders": [
@@ -40080,15 +40080,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9789"
+          "Value": "9731"
         },
         {
           "Name": "ETag",
-          "Value": "\"i+fKITSG/TaQzUt4u/Qkr/D6I4b1XBUuyGfPCK8NF5M=\""
+          "Value": "\"muoxkT0lwOR18qcRtgJJAf/aUbOuGnphioiXiTkASY8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Jun 2019 08:44:53 GMT"
+          "Value": "Tue, 29 Apr 2025 14:34:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40108,13 +40108,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"h2JuIRCaZXYwiSF1cwAG9bIlBfAvV4H/VP+3oRxYAmk=\""
+          "Value": "W/\"iCLhmmdDYQUqLiw6tEi0+ClwVbr0Iwm6c8M7HraTjlw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h2JuIRCaZXYwiSF1cwAG9bIlBfAvV4H/VP+3oRxYAmk="
+          "Value": "sha256-iCLhmmdDYQUqLiw6tEi0+ClwVbr0Iwm6c8M7HraTjlw="
         }
       ]
     },
@@ -40129,7 +40129,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "53161"
+          "Value": "52988"
         },
         {
           "Name": "Content-Type",
@@ -40137,11 +40137,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"h2JuIRCaZXYwiSF1cwAG9bIlBfAvV4H/VP+3oRxYAmk=\""
+          "Value": "\"iCLhmmdDYQUqLiw6tEi0+ClwVbr0Iwm6c8M7HraTjlw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Jun 2019 08:44:53 GMT"
+          "Value": "Tue, 29 Apr 2025 14:34:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40151,13 +40151,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h2JuIRCaZXYwiSF1cwAG9bIlBfAvV4H/VP+3oRxYAmk="
+          "Value": "sha256-iCLhmmdDYQUqLiw6tEi0+ClwVbr0Iwm6c8M7HraTjlw="
         }
       ]
     },
     {
       "Route": "Film-Review-Movie-Database/Film-Review-Movie-Database/moviesingle.html.gz",
-      "AssetFile": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\obj\\Debug\\net9.0\\compressed\\eiafsoy26r-f2re2gmcw4.gz",
+      "AssetFile": "C:\\cSharpDersleri\\MovieApi\\Frontends\\MovieApi.WebUI\\obj\\Debug\\net9.0\\compressed\\eiafsoy26r-8oygjvc2be.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40166,7 +40166,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9789"
+          "Value": "9731"
         },
         {
           "Name": "Content-Type",
@@ -40174,11 +40174,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"i+fKITSG/TaQzUt4u/Qkr/D6I4b1XBUuyGfPCK8NF5M=\""
+          "Value": "\"muoxkT0lwOR18qcRtgJJAf/aUbOuGnphioiXiTkASY8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Jun 2019 08:44:53 GMT"
+          "Value": "Tue, 29 Apr 2025 14:34:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40196,7 +40196,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-i+fKITSG/TaQzUt4u/Qkr/D6I4b1XBUuyGfPCK8NF5M="
+          "Value": "sha256-muoxkT0lwOR18qcRtgJJAf/aUbOuGnphioiXiTkASY8="
         }
       ]
     },

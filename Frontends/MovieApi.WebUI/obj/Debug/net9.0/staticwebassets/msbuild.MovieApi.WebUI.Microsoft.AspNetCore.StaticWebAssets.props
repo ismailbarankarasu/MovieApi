@@ -4530,8 +4530,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f2re2gmcw4</Fingerprint>
-      <Integrity>h2JuIRCaZXYwiSF1cwAG9bIlBfAvV4H/VP+3oRxYAmk=</Integrity>
+      <Fingerprint>8oygjvc2be</Fingerprint>
+      <Integrity>iCLhmmdDYQUqLiw6tEi0+ClwVbr0Iwm6c8M7HraTjlw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Film-Review-Movie-Database\Film-Review-Movie-Database\moviesingle.html'))</OriginalItemSpec>

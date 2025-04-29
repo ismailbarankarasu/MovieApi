@@ -328,7 +328,6 @@ C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\
 C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\5i41eksn24-4yqbyeayd7.gz
 C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\r5auf7yzq8-6qubsdasz6.gz
 C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\r5pkycfxkq-sesw8gt9jk.gz
-C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\eiafsoy26r-f2re2gmcw4.gz
 C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\558mhnpxfk-f0mrm79a45.gz
 C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\ueqqg8nyez-9l0yixam23.gz
 C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\kx4egk3one-avas62l9vd.gz
@@ -342,3 +341,4 @@ C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\
 C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\w09y3gfmx7-eetinn5flt.gz
 C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\bin\Debug\net9.0\MovieApi.Dto.dll
 C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\bin\Debug\net9.0\MovieApi.Dto.pdb
+C:\cSharpDersleri\MovieApi\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\eiafsoy26r-8oygjvc2be.gz
