@@ -23,9 +23,11 @@ namespace MovieApi.WebUI.Controllers
                 var values = JsonConvert.DeserializeObject<List<ResultMovieDto>>(jsonData);
                 return View(values);
             }
-            ViewBag.v1 = "Film Listesi";
-            ViewBag.v2 = "Ana Sayfa";
-            ViewBag.v3 = "Tüm Filmler";
+            return View();
+        }
+        public async Task<IActionResult> MovieDetail(int id)
+        {
+            id = 0;
             return View();
         }
     }
